@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Younus Montasir! 👋
 
-<!--
-**Younus-Montasir/younus-montasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **About Me**
+- 🎓 I’m a student and a developer, always eager to learn and grow in the field of technology.
+- 💻 I love building projects that solve real-world problems and make life easier.
+- 🌍 I’m currently working on projects involving React, Tailwind CSS, and front-end development.
+- 💡 Fun fact: I’m passionate about responsive design and creating user-friendly interfaces!
 
-Here are some ideas to get you started:
+🚀 **Skills**
+- Front-end Development: HTML, CSS, JavaScript, React, Tailwind CSS
+- Responsive Design & UI/UX
+- Problem-Solving & Continuous Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to Reach Me**
+- LinkedIn: 
+- Twitter: 
+- Email: 
+
+🤝 **Let's Connect**
+If you're interested in collaborating, have questions, or just want to connect, feel free to reach out!
+
+---
+
+Thanks for stopping by! 😊
